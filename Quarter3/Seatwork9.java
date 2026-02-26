@@ -1,11 +1,9 @@
-package Quarter4;
+package Quarter3;
 
 import java.util.Scanner;
 import java.util.Random;
 import java.util.Timer;
 import java.util.TimerTask;
-import java.time.LocalTime;
-
 class Task1 {
     Scanner sc = new Scanner(System.in);
 
@@ -209,7 +207,7 @@ class Task7 {
     }
 }
 
-public class Seatworks {
+public class Seatwork9 {
 
     public static void main(String[] args) {
         Task1 task_one = new Task1();
